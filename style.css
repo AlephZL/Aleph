@@ -68,6 +68,7 @@ body{
     position: relative;
     padding:10em;
     background-color: #c4c2c3;
+    width: 100%;
 }
 .description p {
     font-size: 1.1em;
