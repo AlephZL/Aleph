@@ -69,6 +69,7 @@ body{
     padding:10em;
     background-color: #c4c2c3;
     width: 100%;
+    object-fit: cover;
 }
 .description p {
     font-size: 1.1em;
